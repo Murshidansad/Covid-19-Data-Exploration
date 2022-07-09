@@ -1,2 +1,2 @@
 # Covid-19-Data-Exploration
-Exploratory Analysis of Covid-19 dataset using MySQL
+The aim of this project is to conduct an exploratory analysis of data in relation to COVID-19 Deaths and COVID-19 Vaccinations. 
